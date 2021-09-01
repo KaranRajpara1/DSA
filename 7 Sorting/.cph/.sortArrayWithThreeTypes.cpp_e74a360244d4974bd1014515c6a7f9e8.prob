@@ -1,0 +1,1 @@
+{"name":"Local: sortArrayWithThreeTypes","url":"e:\\SP\\7 Sorting\\sortArrayWithThreeTypes.cpp","tests":[{"id":1627105026641,"input":"6\n0 1 0 2 1 2","output":"0 0 1 1 2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SP\\7 Sorting\\sortArrayWithThreeTypes.cpp","group":"local","local":true}

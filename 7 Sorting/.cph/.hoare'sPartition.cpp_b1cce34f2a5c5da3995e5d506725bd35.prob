@@ -1,0 +1,1 @@
+{"name":"Local: hoare'sPartition","url":"e:\\SP\\7 Sorting\\hoare'sPartition.cpp","tests":[{"id":1626896169477,"input":"0 7\n5 3 8 4 2 7 1 10","output":"1 3 2 4 8 7 5 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SP\\7 Sorting\\hoare'sPartition.cpp","group":"local","local":true}

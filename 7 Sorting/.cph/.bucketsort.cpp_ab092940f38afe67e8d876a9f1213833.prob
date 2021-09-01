@@ -1,0 +1,1 @@
+{"name":"Local: bucketsort","url":"e:\\SP\\7 Sorting\\bucketsort.cpp","tests":[{"id":1627535017747,"input":"7 4\n30 40 10 80 5 12 70","output":"5 10 12 30 40 70 80"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SP\\7 Sorting\\bucketsort.cpp","group":"local","local":true}

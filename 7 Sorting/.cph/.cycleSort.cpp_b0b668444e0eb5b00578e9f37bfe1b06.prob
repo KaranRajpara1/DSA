@@ -1,0 +1,1 @@
+{"name":"Local: cycleSort","url":"e:\\SP\\7 Sorting\\cycleSort.cpp","tests":[{"id":1627112458962,"input":"5\n4 9 0 8 2","output":"0 2 4 8 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SP\\7 Sorting\\cycleSort.cpp","group":"local","local":true}

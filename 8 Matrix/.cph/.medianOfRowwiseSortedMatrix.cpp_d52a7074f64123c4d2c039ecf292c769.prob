@@ -1,0 +1,1 @@
+{"name":"Local: medianOfRowwiseSortedMatrix","url":"e:\\SP\\8 Matrix\\medianOfRowwiseSortedMatrix.cpp","tests":[{"id":1627632527730,"input":"3 3\n1 10 20\n15 25 35\n5 30 40","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SP\\8 Matrix\\medianOfRowwiseSortedMatrix.cpp","group":"local","local":true}
