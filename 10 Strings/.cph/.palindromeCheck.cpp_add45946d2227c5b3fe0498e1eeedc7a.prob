@@ -1,0 +1,1 @@
+{"name":"Local: palindromeCheck","url":"e:\\SP\\10 Strings\\palindromeCheck.cpp","tests":[{"id":1630481630519,"input":"abcdcba","output":"1"},{"id":1630481664405,"input":"ABBA","output":"1"},{"id":1630481672000,"input":"karan","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\SP\\10 Strings\\palindromeCheck.cpp","group":"local","local":true}
